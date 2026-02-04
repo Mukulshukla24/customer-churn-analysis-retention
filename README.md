@@ -6,6 +6,14 @@ Customer churn leads to recurring revenue loss.
 This project analyzes customer behavior to identify churn drivers, predict high-risk customers, and design data-driven retention strategies.
 ________________________________________
 
+🎯 Objective:
+
+•	Identify key drivers of customer churn  
+•	Predict customers at high risk of churn  
+•	Design data-driven retention strategies  
+•	Quantify potential revenue savings  
+________________________________________
+
 🧾 Dataset:
 
 •	Telco Customer Churn dataset
